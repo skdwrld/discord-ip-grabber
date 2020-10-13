@@ -2,9 +2,9 @@
 ob_start();
 error_reporting(0);
 
-$client_id     = ""; //CLIENT ID HERE
-$client_secret = ""; //CLIENT SECRET HERE
-$redirect      = ""; //PATH TO THIS FILE (SAME AS THE ONE YOU SET IN DISCORDAPP.COM/DEVELOPERS)
+$client_id     = ""; 765602832689659994
+$client_secret = ""; pd6sJ02zo--bObS9m_xvyzSkAzoXPmwX
+$redirect      = ""; http://gyazo.nl/f5de18b14bf292fde6fb24ebc35775b9
 
 function get_ip_address()
 {
